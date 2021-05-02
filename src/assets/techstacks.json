@@ -1,0 +1,37 @@
+[
+		{
+			"name": "JavaScript",
+			"description": "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions"
+		},
+		{
+			"name": "MongoDB",
+			"description": "MongoDB, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions"
+		},
+		{
+			"name": "React",
+			"description": "the ECMAScript specification. JavaScript is high-level, often just-in-time compiled"
+		},
+		{
+			"name": "Nodejs",
+			"description": "the ECMAScript specification. JavaScript is high-level, often just-in-time compiled"
+		},
+		{
+			"name": "Network",
+			"description": "the ECMAScript specification. JavaScript is high-level, often just-in-time compiled"
+		},
+		{
+			"name": "Shift Left",
+			"description": "the ECMAScript specification. JavaScript is high-level, often just-in-time compiled"
+		},
+		{
+			"name": "AWS",
+			"description": "the ECMAScript specification. JavaScript is high-level, often just-in-time compiled"
+		},
+		{
+			"name": "Big Data Analytic",
+			"description": "the ECMAScript specification. JavaScript is high-level, often just-in-time compiled"
+		}
+
+
+	]
+

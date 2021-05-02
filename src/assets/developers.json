@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "devName": "Adam",
+        "devRoles": [
+            {
+				"roleName": "Network",
+				"roleLevel": "Senior",
+				"privileges": "Admin"
+			},
+    		{
+				"roleName": "Oracle",
+				"roleLevel": "Junior",
+				"privileges": "user"
+    		}
+        ],
+		"currentProjects": [
+			{
+				"projectName": "Project-54",
+				"projectStartDate": "2021-05-22",
+				"projectEndDate": 	"2021-09-22"
+			},
+			{
+				"projectName": "Project-52",
+				"projectStartDate": "2021-04-01",
+				"projectEndDate": 	"2021-10-05"
+			}
+		]
+    },
+    {
+        "_id": "4554sdfsdfsdf",
+        "devName": "Sam",
+        "roles": [
+            {
+				"roleName": "JavaScript",
+				"roleLevel": "Senior",
+				"privileges": "user"
+			},
+    		{
+				"roleName": "Oracle",
+				"roleLevel": "Junior",
+				"privileges": "user"
+    		}
+        ],
+		"currentProjects": [
+			{
+				"projectName": "Project-54",
+				"projectStartDate": "2021-05-22",
+				"projectEndDate": 	"2021-09-22"
+			},
+			{
+				"projectName": "Project-52",
+				"projectStartDate": "2021-04-01",
+				"projectEndDate": 	"2021-10-05"
+			}
+		]
+    }
+]

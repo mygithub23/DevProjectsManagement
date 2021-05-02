@@ -1,0 +1,182 @@
+[{
+
+		"projectName": "Project1",
+		"description": "Project description",
+		"projectStartDate": "2021-05-22",
+		"projectEndDate": "2021-09-22",
+
+		"reqTechStacks": [{
+				"reqTechStackId": "JavaScript12345",
+				"techStackName": "JavaScript",
+				"numOfDev": 5,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			},
+			{
+				"reqTechStackId": "MongoDB12345",
+				"techStackName": "MongoDB",
+				"numOfDev": 4,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			},
+			{
+				"reqTechStackId": "React12345",
+				"techStackName": "React",
+				"numOfDev": 3,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			},
+			{
+				"reqTechStackId": "NodeJS12345",
+				"techStackName": "NodeJs",
+				"numOfDev": 6,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			},
+			{
+				"reqTechStackId": "CSS12345",
+				"techStackName": "CSS",
+				"numOfDev": 2,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			}
+		],
+		"developers": [{
+				"developerName": "john",
+				"roleLevel": "senior"
+			},
+			{
+				"developerName": "Ali",
+				"roleLevel": "mideleve"
+			},
+			{
+				"developerName": "Adam",
+				"roleLevel": "senior"
+			},
+			{
+				"developerName": "Leila",
+				"roleLevel": "mideleve"
+			},
+			{
+				"developerName": "Fred",
+				"roleLevel": "junior"
+			},
+			{
+				"developerName": "Suzan",
+				"roleLevel": "senior"
+			}
+		]
+	},
+	{
+
+		"projectName": "Project2",
+		"description": "Project description",
+		"projectStartDate": "2021-05-22",
+		"projectEndDate": "2021-09-22",
+
+		"techStack": [{
+
+				"reqTechStackId": "Network12345",
+				"techStackName": "Network",
+				"numOfDev": 4,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			},
+			{
+				"reqTechStackId": "Network12345",
+				"techStackName": "Container",
+				"numOfDev": 4,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			},
+
+			{
+				"reqTechStackId": "Network12345",
+				"techStackName": "Shift Left",
+				"numOfDev": 6,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			},
+			{
+				"reqTechStackId": "Network12345",
+				"techStackName": "AWS",
+				"numOfDev": 6,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			}
+		],
+		"developers": [{
+				"techStackName": "Daniel",
+				"roleLevel": "senior"
+			},
+			{
+				"techStackName": "Ali",
+				"roleLevel": "mideleve"
+			},
+			{
+				"techStackName": "Fred",
+				"roleLevel": "senior"
+			},
+			{
+				"techStackName": "Zaid",
+				"roleLevel": "mideleve"
+			},
+			{
+				"techStackName": "Fred",
+				"roleLevel": "junior"
+			},
+			{
+				"techStackName": "Suzan",
+				"roleLevel": "senior"
+			}
+		]
+	},
+	{
+
+		"projectName": "Project54",
+		"description": "Project description",
+		"projectStartDate": "2021-05-22",
+		"projectEndDate": "2021-09-22",
+
+		"techStack": [{
+
+				"reqTechStackId": "Network12345",
+				"techStackName": "Network",
+				"numOfDev": 4,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			},
+			{
+				"reqTechStackId": "Network12345",
+				"techStackName": "Container",
+				"numOfDev": 4,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			},
+			{
+				"reqTechStackId": "Network12345",
+				"techStackName": "Big Data",
+				"numOfDev": 3,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			},
+			{
+				"reqTechStackId": "Network12345",
+				"techStackName": "Shift Left",
+				"numOfDev": 6,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			},
+			{
+				"reqTechStackId": "Network12345",
+				"techStackName": "AWS",
+				"numOfDev": 6,
+				"taskStartDate": "2021-05-22",
+				"taskEndDate": "2021-09-22"
+			}
+		],
+		"developers": [{
+
+		}]
+	}
+]
