@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const developerModel = require("../../models/Developer");
+const developerModel = require("../../server/models/Developer");
 
 
 router.get("/api/developers", async (request, response) => {

@@ -12,10 +12,12 @@
     "dev-serv": "webpack-dev-server --mode development",
     "serve": "webpack serve --open 'Chrome'",
     "live-serve": "live-server public/",
-    "start-server": "nodemon server.js",
-    "seed": "node scripts/seedDB.js"
+    "start-server": "nodemon server/server.js",
+    "seed": "node server/scripts/seedDB.js"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
     "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
     "react": "^16.9.0",

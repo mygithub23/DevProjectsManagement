@@ -1,4 +1,5 @@
-const mongoose = require("mongoose");
+import mongoose from 'mongoose';
+
 const Schema = mongoose.Schema;
 
 const DeveloperSchema = new Schema({
@@ -50,7 +51,7 @@ const DeveloperSchema = new Schema({
 const Developer = mongoose.model("Developers", DeveloperSchema);
 
 
-module.exports = Developer;
+export default  Developer;
 
 
 // const mongoose = require("mongoose");

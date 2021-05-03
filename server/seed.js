@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const db = require("../models");
+const db = require("./models");
 
 // This file empties the developer collection and inserts the developer below
 

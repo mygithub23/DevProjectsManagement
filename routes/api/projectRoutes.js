@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const projectModel = require("../../models/Project");
+const projectModel = require("../../server/models/Project");
 
 
 router.get("/api/projects", async (request, response) => {
@@ -11,10 +11,6 @@ router.get("/api/projects", async (request, response) => {
     response.status(500).send(error);
   }
 });
-
-
-
-
 
 router.post("/api/projects", async (request, response) => {
   const project = new projectModel(request.body);
@@ -36,8 +32,6 @@ router.patch("/api/projects/:id", async (request, response) => {
     response.status(500).send(error);
   }
 });
-
-
 
 
 router.delete("/api/projects/:id", async (request, response) => {

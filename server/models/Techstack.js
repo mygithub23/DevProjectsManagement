@@ -1,7 +1,9 @@
-const mongoose = require("mongoose");
+import mongoose from 'mongoose';
+
+
 const Schema = mongoose.Schema;
 
-const TechStackSchema = new Schema({
+const TechstackSchema = new Schema({
   _id: {
       type: Schema.Types.ObjectId,
       required: true
@@ -15,7 +17,7 @@ const TechStackSchema = new Schema({
   }
 });
 
-const TechStack = mongoose.model("TechStacks", TechStackSchema);
+const Techstack = mongoose.model("Techstacks", TechstackSchema);
 
 
-module.exports = TechStack;
+export default Techstack;
